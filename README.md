@@ -5,4 +5,4 @@ Olá Sou o Bunny! 🐰🤓 Sou Apaixonados por jogos.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrBunnyStudio)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlosgocalves97/?theme=dark)
 ## Amante de Jogos FPS!💥🔫
-![MrBunny GitHub stats](https://github-readme-stats.vercel.app/api?username=mrbunny&show_icons=true&theme=radical)
+![MrBunny GitHub stats](https://github-readme-stats.vercel.app/api?username=mrbunny&show_icons=true&theme=dark)
